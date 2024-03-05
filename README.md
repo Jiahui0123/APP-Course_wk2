@@ -1,1 +1,2 @@
-# APP-Course_wk2
+# 音樂專輯Version1.
+架構：Card、Header
